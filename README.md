@@ -2,7 +2,7 @@
 三张imgView实现无限循环，成熟稳定
 
 ### 效果图
-![效果图](http://7xp0ch.com1.z0.glb.clouddn.com/QQ20180102-151347.gif)
+![效果图](http://7xp0ch.com1.z0.glb.clouddn.com/loopScroll.gif)
 
 ### 原理
 
