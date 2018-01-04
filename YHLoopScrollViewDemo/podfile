@@ -1,0 +1,8 @@
+
+platform :ios, 7.0
+
+target "YHLoopScrollViewDemo" do
+
+pod 'SDWebImage', '3.7.6'
+
+end
